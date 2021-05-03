@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          max_age 500 seconds
+          s-maxage 500 seconds
         </p>
         <a
           className="App-link"
