@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test changes. You rock!!
+          Test changes to see cache behavior. You rock!!
         </p>
         <a
           className="App-link"
